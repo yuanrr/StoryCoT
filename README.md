@@ -4,6 +4,10 @@
 
 Despite advancements in Large Vision-Language Models (LVLMs), their ability to understand long-term story-level video content remains limited. Challenges arise from oversimplified temporal information handling and action/event-centric training data biases.
 
+## 🚀 Updates
+
+(2025.04.28) SCVBench is accepted by IJCAI 2025! We will upload the code as soon as possible.
+
 ## Introducing SCVBench
 
 SCVBench is a novel benchmark for story-centric video understanding. It evaluates LVLMs through an event ordering task, broken into sub-questions leading to a final question, quantitatively measuring temporal reasoning. The dataset includes 1,253 final questions and 6,027 sub-question pairs from 925 videos, forming continuous multi-turn dialogues.
